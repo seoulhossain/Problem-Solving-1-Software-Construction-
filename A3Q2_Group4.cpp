@@ -64,7 +64,7 @@ void Input (int itemno[],double price[], double discount[], int x)
         file >> discount[i];
     }
 
-} //the end
+} //the end of assignment 4
 
 
 
